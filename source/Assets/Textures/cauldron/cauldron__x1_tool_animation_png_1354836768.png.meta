@@ -1,0 +1,724 @@
+fileFormatVersion: 2
+guid: ecc4040c95bc24710b07cb0f35118477
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: cauldron__x1_tool_animation_png_1354836768_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 910
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_1
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 910
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 910
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_3
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 910
+        width: 70
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_4
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 910
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_5
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 910
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_6
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 910
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_7
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 910
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_8
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 910
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 910
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 780
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_11
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 780
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_12
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 780
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_13
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 780
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_14
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 780
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_15
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 780
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_16
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 780
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_17
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 780
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_18
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 780
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 780
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 650
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_21
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 650
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_22
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 650
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_23
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 650
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_24
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 650
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_25
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 650
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_26
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 650
+        width: 70
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_27
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 650
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_28
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 650
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_29
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 650
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 520
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_31
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 520
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_32
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 520
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_33
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 520
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_34
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 520
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_35
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 520
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_36
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 520
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_37
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 520
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_38
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 520
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 520
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 390
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_41
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 390
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_42
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 390
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_43
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 390
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_44
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 390
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_45
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 390
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_46
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 390
+        width: 72
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_47
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 390
+        width: 74
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_48
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 390
+        width: 78
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_49
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 390
+        width: 83
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 260
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+    - name: cauldron__x1_tool_animation_png_1354836768_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 260
+        width: 95
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_52
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 260
+        width: 91
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_53
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 260
+        width: 87
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 260
+        width: 82
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_55
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 260
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_56
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 260
+        width: 72
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_57
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 260
+        width: 70
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_58
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 260
+        width: 70
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_59
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 260
+        width: 70
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_60
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 130
+        width: 70
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_61
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 130
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_62
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 130
+        width: 70
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_63
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 130
+        width: 70
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_64
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 130
+        width: 70
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_65
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 130
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_66
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 130
+        width: 70
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_67
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 130
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_68
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 130
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_69
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 204
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_70
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 0
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_71
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 0
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_72
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 0
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_73
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 0
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: cauldron__x1_tool_animation_png_1354836768_74
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 0
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

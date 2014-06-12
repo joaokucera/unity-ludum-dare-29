@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 26e6e61d4157e486c850a8aa6143ccbc
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: npc_chicken__x1_walk_png_1354830385_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 343
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 343
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_2
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 343
+        width: 51
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_3
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 343
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_4
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 343
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_5
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 343
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 233
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 233
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_8
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 233
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_9
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 233
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_10
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 233
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_11
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 233
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 123
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_13
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 123
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_14
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 123
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_15
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 123
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_16
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 123
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_17
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 123
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_18
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 13
+        width: 50
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 13
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_20
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 13
+        width: 51
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_21
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 12
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_22
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 12
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_chicken__x1_walk_png_1354830385_23
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 13
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 

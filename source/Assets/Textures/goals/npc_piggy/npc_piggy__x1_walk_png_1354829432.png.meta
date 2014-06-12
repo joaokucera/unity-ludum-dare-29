@@ -1,0 +1,265 @@
+fileFormatVersion: 2
+guid: 7f19475da165d48c0a2a3a0dbe5fb76b
+TextureImporter:
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: npc_piggy__x1_walk_png_1354829432_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 126
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 125
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_2
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 125
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_3
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 125
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 125
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 125
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_6
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 126
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_7
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 126
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 64
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_9
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_10
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_11
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 64
+        width: 82
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_12
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 82
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_13
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 64
+        width: 83
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_14
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_15
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 64
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2
+        width: 83
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_17
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 2
+        width: 84
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_19
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_20
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2
+        width: 83
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_22
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+    - name: npc_piggy__x1_walk_png_1354829432_23
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 3
+        width: 83
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+  spritePackingTag: 
+  userData: 
